@@ -13,34 +13,28 @@ Permis A, B
 Intérêts
 --------
 
-*   L'organisation apprenante
+*   L'organisation apprenante focalisée sur la **qualité**
 *   Le développement logiciel
 *   L'administration système
 *   Le Logiciel Libre
-*   Unix
-
-Recherche
----------
-
-*   Être jugé sur mes résultats
-*   Disposer de moyens en rapport avec les demandes
-*   Une organisation apprenante focalisée sur la **qualité**
+*   Linux / *BSD
 
 Parcours
 --------
 
 *   **2012 - actuel** *Indépendant*
 
-    Formation et expertise sur la gestion d'équipe, le déploiement, Git, Python, Kanban, la virtualisation, l'administration système Unix...
+    Formation, expertise et coaching sur la gestion de développement logiciel (Agile, Lean, Kanban, Devops), le déploiement continue, Git, Python, la virtualisation, l'administration système Linux.
 
-*   **08/2007 - 06/2014** *Responsable R&D, CTO* - Securactive, éditeur (Paris, France)
+*   **08/2007 - 06/2014** *Responsable R&D, directeur technique* - Securactive, éditeur (Paris, France)
 
     -   Gestion quotidienne de la R&D
-    -   Gestion de la stratégie de développement
+    -   Mise en place de la stratégie de développement (philosophie Agile / Lean / Kanban)
+    -   Développement et automatisation de la chaine logicielle
     -   Embauche des profils techniques
-    -   Coaching des développeurs
-    -   Maintenance de l'infrastructure de la société
-    -   Maintenance de l'infrastructure de la R&D
+    -   Coaching des développeurs et du Product Manager
+    -   Gestion de l'infrastructure de la société
+    -   Gestion de l'infrastructure de la R&D
 
 *   **05/2006 - 08/2007** *Responsable du pôle Open Source* - Acamaya, SSII (Paris, France)
 
@@ -112,9 +106,9 @@ Connaissances
 -------------
 
 
-*   **Management** : Développement par le flux (inspiration : theorie des contraintes, 5eme discipline, Mouvement Agile, Devops, Lean & Kanban), pratiques de développement logiciel (TU, TDD...)
+*   **Management** : Développement par le flux (inspiration : theorie des contraintes, 5eme discipline, Mouvement Agile, Devops, Lean & Kanban)
 
-*   **Développement** : Python, Go, Dart, Rust, Sublime Text, PyCharm, Git, Hg, Buildbot, Buildout, ReviewBoard, Gerrit, Sphinx, Pandoc, Asciidoc
+*   **Développement et outils** : Pratique des tests (TU, TDD...), Python, Go, Dart, Rust, Sublime Text, PyCharm, Git, Hg, Buildbot, Buildout, ReviewBoard, Gerrit, Sphinx, Pandoc
 
 *   **Admin système** : Linux, OpenBSD, SaltStack, Ansible, CloneZilla, Bacula, Nginx, PostgreSQL
 
