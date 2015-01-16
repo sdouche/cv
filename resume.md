@@ -1,8 +1,7 @@
 CV Sébastien Douche
 ===================
 
-10, rue Vaudétard
-92130 Issy les Moulineaux - France
+Issy les Moulineaux - France
 Date de naissance : 18 septembre 1974
 Tel : +33 6 63 55 15 95
 Mail : sebastien@douche.name
@@ -13,28 +12,48 @@ Permis A, B
 Intérêts
 --------
 
-*   L'organisation apprenante focalisée sur la **qualité**
 *   Le développement logiciel
 *   L'administration système
-*   Le Logiciel Libre
-*   Linux / *BSD
+*   L'écosystème *Open Source* / Linux / *BSD
+*   La gestion d'organisation apprenante focalisée sur la **qualité**
 
 Parcours
 --------
 
 *   **2012 - actuel** *Indépendant*
 
-    Formation, expertise et coaching sur la gestion de développement logiciel (Agile, Lean, Kanban, Devops), le déploiement continue, Git, Python, la virtualisation, l'administration système Linux.
+    Formation, expertise et coaching sur la gestion de développement logiciel (Agile, Lean, Kanban, Devops), le déploiement continue, Git, Python, la virtualisation Open Source, l'administration système Linux.
 
 *   **08/2007 - 06/2014** *Responsable R&D, directeur technique* - Securactive, éditeur (Paris, France)
 
-    -   Gestion quotidienne de la R&D
-    -   Mise en place de la stratégie de développement (philosophie Agile / Lean / Kanban)
-    -   Développement et automatisation de la chaine logicielle
-    -   Embauche des profils techniques
-    -   Coaching des développeurs et du Product Manager
-    -   Gestion de l'infrastructure de la société
-    -   Gestion de l'infrastructure de la R&D
+    - Gestion quotidienne de la R&D
+        - Stratégie et pratiques de développement : Lean (développement par le flux), Kanban, daily, rétrospective, TDD, revue de code (ReviewBoard, Gerrit), SCM (SVN, Hg, Git), intégration continue (jenkins, Buildbot), déploiement continu
+        - Embauche des profils techniques
+        - Coaching des développeurs et du Product Manager
+        - Gestion du stockage, clonage et envoi des machines clients (CloneZilla)
+        - Veille technologique permanente
+
+    - Gestion de l'infrastructure de la société
+        - Firewall (OpenBSD), site web (Nginx, PHP-FPM, Mysql), forum, mail, DNS (Bind), Samba
+        - Gestion de la téléphonie (Cisco 7960, Asterisk + prestataire externe)
+        - Backup (Bacula)
+        - Gestion de configuration (Saltstack)
+        - VPN des sondes (OpenVPN)
+        - Développement des outils de livraison automatique du produit
+        - Gestion des partenaires techniques
+
+    - Gestion de l'infrastructure de la R&D
+        - Création des environnements virtualisés (QEMU, Openstack, LXC, KVM, VMWare)
+        - Simulation d'environnement clients (OpenVSwitch)
+        - Développement d'outils internes en Python et Go (Fabric, Ansible)
+        - Développement de l'automatisation de la chaine logicielle C / Python (Buildout, Docker)
+        - Automatisation de la création des images VMWare, KVM, VirtualBox et physique (libguestfs, virt-tools, OVF).
+        - Déploiement sur le cloud (Rackspace / AWS + Docker) pour test client
+
+    - Développement sur le produit
+        - Développement de la partie orchestration
+        - Automatisation de la documentation PDF et HTML (Sphinx)
+        - Travail sur l'architecture, migration et profiling Python (2.5, 2.7. 3), migration et test de charge Postgresql (8.4, 9.3), métrologie (Collectd)
 
 *   **05/2006 - 08/2007** *Responsable du pôle Open Source* - Acamaya, SSII (Paris, France)
 
@@ -101,24 +120,6 @@ Parcours
 *   **2005 - 2007** *Université Paris VIII* (Montreuil, France)
 
     DUT Informatique
-
-Connaissances
--------------
-
-
-*   **Management** : Développement par le flux (inspiration : theorie des contraintes, 5eme discipline, Mouvement Agile, Devops, Lean & Kanban)
-
-*   **Développement et outils** : Pratique des tests (TU, TDD...), Python, Go, Dart, Rust, Sublime Text, PyCharm, Git, Hg, Buildbot, Buildout, ReviewBoard, Gerrit, Sphinx, Pandoc
-
-*   **Admin système** : Linux, OpenBSD, SaltStack, Ansible, CloneZilla, Bacula, Nginx, PostgreSQL
-
-*   **Virtualisation** : QEMU, KVM, LXC, VirtualBox, OpenVZ, Xen, Libvirtd, libguestfs, virt-tools, Docker, OVF, OpenVSwitch
-
-*   **Cloud** : OpenStack
-
-*   **Sécurité** : PF, Naxsi
-
-*   **VoIP** : Téléphone Cisco, Asterisk
 
 Divers
 ------
